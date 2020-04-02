@@ -18,19 +18,23 @@
     {
       "title": "test",
       "description": "test",
+      "userId": "102381010995853759988",
       "id": 4
     },
     {
       "title": "This is a stream with uid",
       "description": "Helloooo. What is my uid? you never know",
-      "userId": "102381010995853759988",
       "id": 5
     },
     {
       "title": "programatic",
       "description": "wowww",
-      "userId": "102381010995853759988",
       "id": 6
+    },
+    {
+      "title": "Hello",
+      "description": "Hithere",
+      "id": 7
     }
   ]
 }
