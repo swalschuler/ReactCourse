@@ -1,0 +1,36 @@
+{
+  "streams": [
+    {
+      "title": "Best stream",
+      "description": "the bessssst",
+      "id": 1
+    },
+    {
+      "title": "Second stream",
+      "description": "This one 2",
+      "id": 2
+    },
+    {
+      "description": "hi",
+      "title": "hi",
+      "id": 3
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "id": 4
+    },
+    {
+      "title": "This is a stream with uid",
+      "description": "Helloooo. What is my uid? you never know",
+      "userId": "102381010995853759988",
+      "id": 5
+    },
+    {
+      "title": "programatic",
+      "description": "wowww",
+      "userId": "102381010995853759988",
+      "id": 6
+    }
+  ]
+}
